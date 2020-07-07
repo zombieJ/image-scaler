@@ -20,7 +20,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "chai": "^3.5.0",
     "del": "^2.2.2",
-    "electron": "^1.6.10",
+    "electron": "^9.1.0",
     "typescript": "^2.3.1"
   }
 }
